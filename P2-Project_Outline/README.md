@@ -1,18 +1,39 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
 
 ### Overview
-Include overview here
+This project will be a meal planner that will work as an organizing tool for people who want to simplify their lives and avoid food waste. 
+By saving recipes in it, the user will have the ability to search for those by the ingredients he/she already has in his/her pantry or fridge. 
+Then, after selecting all the desired recipes, the application will automatically generate a grocery list.
+
+This project was motivated by my own struggle with cooking for my family while facing shortages caused by the COVID pandemic.
+
+
 ### Features
-Include Features here
+
+Add/edit/delete recipes: Users will be able to save recipes and make it their own cookbook.
+
+Search: Search for recipes by the ingredient the user wants to use up.
+
+Add recipes to mealplan: create a plan for the next week.
+
+Generate grocery list: helps the user to shop for groceries in a smart way.
+
+
 ### Technologies
-Include Technologies here
+
+Java
+Spring Boot
+MySQL
+Thymeleaf templates
+Bootstrap
+
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+(To be edited).
+
+
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/ybJeMQ3S/liftoff-project
