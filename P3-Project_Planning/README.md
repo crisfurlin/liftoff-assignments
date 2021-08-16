@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-https://miro.com/app/board/o9J_l2LAcXg=/
+https://drive.google.com/drive/folders/1ye_JQcsa_ZWkkqBaoMVO42YLppB-DHTm?usp=sharing
 
 ### Project Tracker
 
