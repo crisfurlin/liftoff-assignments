@@ -22,17 +22,17 @@ Generate grocery list: helps the user to shop for groceries in a smart way.
 
 ### Technologies
 
-Java
-Spring Boot
-MySQL
-AngularJS
-TypeScript
+- Java
+- Spring Boot
+- MySQL
+- AngularJS
+- TypeScript
 
 
 ### What I'll Have to Learn
 
-Postman
-H2
+- Postman
+- H2
 
 
 ### Project Tracker
