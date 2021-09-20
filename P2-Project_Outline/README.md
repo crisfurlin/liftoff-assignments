@@ -4,7 +4,7 @@
 ### Overview
 This project will be a meal planner that will work as an organizing tool for people who want to simplify their lives and avoid food waste. 
 By saving recipes in it, the user will have the ability to search for those by the ingredients he/she already has in his/her pantry or fridge. 
-Then, after selecting all the desired recipes, the application will automatically generate a grocery list.
+Then, after selecting all the desired recipes, the application will automatically generate a grocery shopping list.
 
 This project was motivated by my own struggle with cooking for my family while facing shortages caused by the COVID pandemic.
 
@@ -25,13 +25,14 @@ Generate grocery list: helps the user to shop for groceries in a smart way.
 Java
 Spring Boot
 MySQL
-Thymeleaf templates
-Bootstrap
+AngularJS
+TypeScript
 
 
 ### What I'll Have to Learn
 
-(To be edited).
+Postman
+H2
 
 
 ### Project Tracker
